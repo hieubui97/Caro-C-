@@ -1,0 +1,6 @@
+E:\Download\code\code\DeMoCaro\AI\bin\Debug\AI.dll
+E:\Download\code\code\DeMoCaro\AI\bin\Debug\AI.pdb
+E:\Download\code\code\DeMoCaro\AI\obj\Debug\AI.csprojAssemblyReference.cache
+E:\Download\code\code\DeMoCaro\AI\obj\Debug\AI.csproj.CoreCompileInputs.cache
+E:\Download\code\code\DeMoCaro\AI\obj\Debug\AI.dll
+E:\Download\code\code\DeMoCaro\AI\obj\Debug\AI.pdb

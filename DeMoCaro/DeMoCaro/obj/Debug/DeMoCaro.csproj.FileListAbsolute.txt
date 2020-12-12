@@ -1,0 +1,19 @@
+D:\FROM\DeMoCaro\DeMoCaro\bin\Debug\DeMoCaro.exe.config
+D:\FROM\DeMoCaro\DeMoCaro\bin\Debug\DeMoCaro.exe
+D:\FROM\DeMoCaro\DeMoCaro\bin\Debug\DeMoCaro.pdb
+D:\FROM\DeMoCaro\DeMoCaro\obj\Debug\DeMoCaro.vanco.resources
+D:\FROM\DeMoCaro\DeMoCaro\obj\Debug\DeMoCaro.Properties.Resources.resources
+D:\FROM\DeMoCaro\DeMoCaro\obj\Debug\DeMoCaro.csproj.GenerateResource.Cache
+D:\FROM\DeMoCaro\DeMoCaro\obj\Debug\DeMoCaro.exe
+D:\FROM\DeMoCaro\DeMoCaro\obj\Debug\DeMoCaro.pdb
+D:\FROM\DeMoCaro\DeMoCaro\obj\Debug\DeMoCaro.csprojResolveAssemblyReference.cache
+D:\FROM\DeMoCaro   Version 2.0\DeMoCaro\DeMoCaro\DeMoCaro\bin\Debug\DeMoCaro.exe.config
+D:\FROM\DeMoCaro   Version 2.0\DeMoCaro\DeMoCaro\DeMoCaro\bin\Debug\DeMoCaro.exe
+D:\FROM\DeMoCaro   Version 2.0\DeMoCaro\DeMoCaro\DeMoCaro\bin\Debug\DeMoCaro.pdb
+D:\FROM\DeMoCaro   Version 2.0\DeMoCaro\DeMoCaro\DeMoCaro\obj\Debug\DeMoCaro.csprojResolveAssemblyReference.cache
+D:\FROM\DeMoCaro   Version 2.0\DeMoCaro\DeMoCaro\DeMoCaro\obj\Debug\DeMoCaro.vanco.resources
+D:\FROM\DeMoCaro   Version 2.0\DeMoCaro\DeMoCaro\DeMoCaro\obj\Debug\DeMoCaro.Properties.Resources.resources
+D:\FROM\DeMoCaro   Version 2.0\DeMoCaro\DeMoCaro\DeMoCaro\obj\Debug\DeMoCaro.csproj.GenerateResource.Cache
+D:\FROM\DeMoCaro   Version 2.0\DeMoCaro\DeMoCaro\DeMoCaro\obj\Debug\DeMoCaro.csproj.CoreCompileInputs.cache
+D:\FROM\DeMoCaro   Version 2.0\DeMoCaro\DeMoCaro\DeMoCaro\obj\Debug\DeMoCaro.exe
+D:\FROM\DeMoCaro   Version 2.0\DeMoCaro\DeMoCaro\DeMoCaro\obj\Debug\DeMoCaro.pdb
